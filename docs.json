@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Hytale Launcher",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#0071B5",
+    "light": "#BDE8FA",
+    "dark": "#0157A1"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -102,7 +102,8 @@
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/light.svg",
+    "href": "https://hlauncher.com"
   },
   "navbar": {
     "links": [
@@ -135,5 +136,8 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "background": {
+    "decoration": "windows"
   }
 }
