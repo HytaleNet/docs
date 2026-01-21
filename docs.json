@@ -42,11 +42,12 @@
     },
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Гайды",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Игра с другом",
             "pages": [
+              "gaydy/igras-drugom/radmin-vpn",
               "index",
               "quickstart",
               "development"
