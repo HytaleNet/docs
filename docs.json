@@ -48,6 +48,12 @@
             "tab": "Гайды",
             "groups": [
               {
+                "group": "Игра",
+                "pages": [
+                  "ru/gaydy/server/prava"
+                ]
+              },
+              {
                 "group": "Игра с другом",
                 "pages": [
                   "gaydy/igras-drugom/radmin-vpn"
@@ -56,8 +62,7 @@
               {
                 "group": "Сервер",
                 "pages": [
-                  "ru/gaydy/server/kak-peresozdat-mir-na-servere",
-                  "ru/gaydy/server/prava"
+                  "ru/gaydy/server/kak-peresozdat-mir-na-servere"
                 ]
               }
             ]
