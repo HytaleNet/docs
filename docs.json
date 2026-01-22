@@ -62,6 +62,7 @@
               {
                 "group": "Сервер",
                 "pages": [
+                  "ru/gaydy/server/perenos-mira-iz-odinochnoy-igry-na-server",
                   "ru/gaydy/server/kak-peresozdat-mir-na-servere"
                 ]
               }
