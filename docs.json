@@ -9,45 +9,56 @@
   },
   "favicon": "/favicon.ico",
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Сайт",
-          "icon": "globe",
-          "color": {
-            "light": "#3e6bf6",
-            "dark": "#3e6bf6"
-          },
-          "href": "https://hlauncher.com"
-        },
-        {
-          "anchor": "Скачать лаунчер (Stable)",
-          "icon": "download",
-          "color": {
-            "light": "#3e6bf6",
-            "dark": "#3e6bf6"
-          },
-          "href": "https://cdn.hlauncher.com"
-        },
-        {
-          "anchor": "Скачать лаунчер (Beta)",
-          "icon": "download",
-          "color": {
-            "light": "#3e6bf6",
-            "dark": "#3e6bf6"
-          },
-          "href": "https://cdn.hlauncher.com/beta"
-        }
-      ]
-    },
-    "tabs": [
+    "languages": [
       {
-        "tab": "Гайды",
-        "groups": [
+        "language": "ru",
+        "global": {
+          "anchors": [
+            {
+              "anchor": "Сайт",
+              "icon": "globe",
+              "color": {
+                "light": "#3e6bf6",
+                "dark": "#3e6bf6"
+              },
+              "href": "https://hlauncher.com"
+            },
+            {
+              "anchor": "Скачать лаунчер (Stable)",
+              "icon": "download",
+              "color": {
+                "light": "#3e6bf6",
+                "dark": "#3e6bf6"
+              },
+              "href": "https://cdn.hlauncher.com"
+            },
+            {
+              "anchor": "Скачать лаунчер (Beta)",
+              "icon": "download",
+              "color": {
+                "light": "#3e6bf6",
+                "dark": "#3e6bf6"
+              },
+              "href": "https://cdn.hlauncher.com/beta"
+            }
+          ]
+        },
+        "tabs": [
           {
-            "group": "Игра с другом",
-            "pages": [
-              "gaydy/igras-drugom/radmin-vpn"
+            "tab": "Гайды",
+            "groups": [
+              {
+                "group": "Игра с другом",
+                "pages": [
+                  "gaydy/igras-drugom/radmin-vpn"
+                ]
+              },
+              {
+                "group": "Сервер",
+                "pages": [
+                  "ru/gaydy/server/prava"
+                ]
+              }
             ]
           }
         ]
@@ -92,6 +103,6 @@
   },
   "banner": {
     "dismissible": false,
-    "content": "Support"
+    "content": " "
   }
 }
