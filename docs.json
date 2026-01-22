@@ -48,6 +48,12 @@
             "tab": "Гайды",
             "groups": [
               {
+                "group": "Лаунчер",
+                "pages": [
+                  "ru/gaydy/reshenie-chastykh-problem"
+                ]
+              },
+              {
                 "group": "Игра",
                 "pages": [
                   "ru/gaydy/server/prava"
@@ -106,7 +112,7 @@
     }
   },
   "background": {
-    "decoration": "grid"
+    "decoration": "gradient"
   },
   "banner": {
     "dismissible": true,
