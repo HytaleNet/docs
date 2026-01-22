@@ -108,7 +108,7 @@
     "decoration": "grid"
   },
   "banner": {
-    "dismissible": false,
-    "content": " "
+    "dismissible": true,
+    "content": "Спасибо, что выбрали HLauncher!"
   }
 }
