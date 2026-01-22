@@ -59,7 +59,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://t.me/LauncherHytaleSupportBot"
       }
     ],
     "primary": {
@@ -82,12 +82,16 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "discord": "https://discord.gg/Dsqe6JfZGS",
+      "telegram": "https://t.me/launcherhytale",
+      "website": "https://hlauncher.com"
     }
   },
   "background": {
     "decoration": "grid"
+  },
+  "banner": {
+    "dismissible": false,
+    "content": "Support"
   }
 }
