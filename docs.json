@@ -33,7 +33,7 @@
               "href": "https://cdn.hlauncher.com"
             },
             {
-              "anchor": "Скачать лаунчер (Beta)",
+              "anchor": "Скачать лаунчер (Beta)<Badge icon=\"badge-alert\"color=\"orange\" shape=\"rounded\">Beta</Badge>",
               "icon": "download",
               "color": {
                 "light": "#3e6bf6",
@@ -71,8 +71,8 @@
                 "group": "Сервер",
                 "pages": [
                   "ru/guides/server/mods",
-                  "ru/gaydy/server/worldchange",
-                  "ru/gaydy/server/worldclear"
+                  "ru/guides/server/worldchange",
+                  "ru/guides/server/worldclear"
                 ]
               }
             ]
@@ -88,12 +88,7 @@
         "label": "Support",
         "href": "https://t.me/LauncherHytaleSupportBot"
       }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
+    ]
   },
   "contextual": {
     "options": [
@@ -113,12 +108,5 @@
       "telegram": "https://t.me/launcherhytale",
       "website": "https://hlauncher.com"
     }
-  },
-  "background": {
-    "decoration": "gradient"
-  },
-  "banner": {
-    "dismissible": true,
-    "content": "Спасибо, что выбрали HLauncher!"
   }
 }
