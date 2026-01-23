@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "almond",
-  "name": "Hytale Launcher",
+  "name": "HytaleNet Launcher",
   "colors": {
     "primary": "#0071B5",
     "light": "#BDE8FA",
@@ -33,7 +33,7 @@
               "href": "https://cdn.hlauncher.com"
             },
             {
-              "anchor": "Скачать лаунчер (Beta)<Badge icon=\"badge-alert\"color=\"orange\" shape=\"rounded\">Beta</Badge>",
+              "anchor": "Скачать лаунчер (Beta)",
               "icon": "download",
               "color": {
                 "light": "#3e6bf6",
@@ -47,7 +47,7 @@
           {
             "tab": "Главная",
             "pages": [
-              "ru/glavnaya/dokumentatsiya-h-launcher",
+              "ru/main/main",
               {
                 "group": "Лаунчер",
                 "pages": [
