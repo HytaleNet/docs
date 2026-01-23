@@ -50,26 +50,28 @@
               {
                 "group": "Лаунчер",
                 "pages": [
-                  "ru/gaydy/reshenie-chastykh-problem"
+                  "ru/guides/launcher/faq",
+                  "ru/guides/launcher/mods"
                 ]
               },
               {
                 "group": "Игра",
                 "pages": [
-                  "ru/gaydy/server/prava"
+                  "ru/guides/server/commands"
                 ]
               },
               {
                 "group": "Игра с другом",
                 "pages": [
-                  "gaydy/igras-drugom/radmin-vpn"
+                  "ru/guides/friends/radmin-vpn"
                 ]
               },
               {
                 "group": "Сервер",
                 "pages": [
-                  "ru/gaydy/server/perenos-mira-iz-odinochnoy-igry-na-server",
-                  "ru/gaydy/server/kak-peresozdat-mir-na-servere"
+                  "ru/guides/server/mods",
+                  "ru/gaydy/server/worldchange",
+                  "ru/gaydy/server/worldclear"
                 ]
               }
             ]
