@@ -70,6 +70,7 @@
               {
                 "group": "Сервер",
                 "pages": [
+                  "ru/guides/server/pvp",
                   "ru/guides/server/mods",
                   "ru/guides/server/worldchange",
                   "ru/guides/server/worldclear"
