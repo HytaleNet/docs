@@ -47,7 +47,7 @@
           {
             "tab": "Главная",
             "pages": [
-              "ru/main/main",
+              "ru",
               {
                 "group": "Лаунчер",
                 "pages": [
@@ -109,5 +109,8 @@
       "telegram": "https://t.me/launcherhytale",
       "website": "https://hlauncher.com"
     }
+  },
+  "background": {
+    "decoration": "windows"
   }
 }
