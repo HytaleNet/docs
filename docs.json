@@ -24,22 +24,13 @@
               "href": "https://hlauncher.com"
             },
             {
-              "anchor": "Скачать лаунчер (Stable)",
+              "anchor": "Скачать лаунчер",
               "icon": "download",
               "color": {
                 "light": "#3e6bf6",
                 "dark": "#3e6bf6"
               },
               "href": "https://cdn.hlauncher.com"
-            },
-            {
-              "anchor": "Скачать лаунчер (Beta)",
-              "icon": "download",
-              "color": {
-                "light": "#3e6bf6",
-                "dark": "#3e6bf6"
-              },
-              "href": "https://cdn.hlauncher.com/beta"
             }
           ]
         },
