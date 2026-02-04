@@ -55,7 +55,8 @@
               {
                 "group": "Игра с другом",
                 "pages": [
-                  "ru/guides/friends/radmin-vpn"
+                  "ru/guides/friends/singleworld-server",
+                  "ru/guides/friends/launcher-server"
                 ]
               },
               {
